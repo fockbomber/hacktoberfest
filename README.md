@@ -1,2 +1,3 @@
 # Cryptography-Python
-Python code snippets for modern ciphers .
+Python code algorithms for aspiring cryptographers.
+
